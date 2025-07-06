@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utshob Bose</h1>
 <h3 align="center">A passionate software developer from Bangladesh, with a strong interest in machine learning and artificial intelligence. I am currently involved in research related to AI and always eager to explore how intelligent systems can solve real-world problems. As an enthusiastic Computer Science student, I enjoy building meaningful projects and learning cutting-edge technologies. I am also a MERN stack developer, with a strong focus on solving problems and bringing impactful solutions to the world through clean, efficient, and user-centered web applications.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utshobbose" alt="utshobbose" /></a> </p>
+### <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utshobbose" alt="utshobbose" /></a> </p>
 
 - 🔭 I’m currently working on [StopViolence](https://github.com/utshobbose/CSE471_Project_StopViolence)
 
