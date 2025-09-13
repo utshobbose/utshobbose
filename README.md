@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm from Bangladesh<br><br>- 🔭 I’m working as freelance MERN Stack Developer<br>- 📚 I'm currently learning REACTNative<br>- ⚡ Fun fact When I’m not writing code, I’m often writing poetry — it’s my favorite way to turn thoughts into rhythm and emotion.<br>- 📫 How to reach me boseadidev1@gmail.com</p>
+<p align="left">I'm from Bangladesh<br><br>- 📚 I'm currently learning REACTNative<br>- ⚡ Fun fact When I’m not writing code, I’m often writing poetry — it’s my favorite way to turn thoughts into rhythm and emotion.<br>- 📫 How to reach me boseadidev1@gmail.com</p>
 
 ###
 
