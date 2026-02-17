@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">A passionate software developer from Bangladesh, with a strong interest in machine learning and artificial intelligence. I am currently involved in research related to AI and always eager to explore how intelligent systems can solve real-world problems. As an enthusiastic Computer Science student, I enjoy building meaningful projects and learning cutting-edge technologies. I am also a MERN stack developer, with a strong focus on solving problems and bringing impactful solutions to the world through clean, efficient, and user-centered web applications.</h3>
+<h3 align="left">A passionate computer science graduate from Bangladesh, with a strong interest in machine learning and artificial intelligence. I am currently involved in research related to AI and always eager to explore how intelligent systems can solve real-world problems. </h3>
 
 ###
 
