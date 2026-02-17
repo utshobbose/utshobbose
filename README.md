@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">A passionate computer science graduate from Bangladesh, with a strong interest in machine learning and artificial intelligence. I am currently involved in research related to AI and always eager to explore how intelligent systems can solve real-world problems. </h3>
+<h3 align="left">A passionate computer science graduate from Bangladesh, with a strong interest in machine learning and artificial intelligence. I am currently involved in learning different aspects of AI and always eager to explore how intelligent systems can solve real-world problems. </h3>
 
 ###
 
