@@ -24,7 +24,7 @@
 <h1 align="center">Hey there, I'm Utshob! 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CS+Graduate+%40+BRAC+University;MERN+Stack+Developer;ML+%26+AI+Enthusiast;Horror+Story+Writer+%F0%9F%95%AF;Poetry+Writer+%F0%9F%93%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CS+Graduate+%40+BRAC+University;MERN+Stack+Developer;ML+%26+AI+Enthusiast;" alt="Typing SVG" />
 </div>
 
 <br/>
