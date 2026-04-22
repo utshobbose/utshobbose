@@ -14,21 +14,17 @@
   <a href="https://www.facebook.com/utshob.bose" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
+  <a href="mailto:officialutshob@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
 </div>
 
 <br/>
 
 <h1 align="center">Hey there, I'm Utshob! 👋</h1>
 
-<h3 align="center">
-  A passionate computer science graduate from Bangladesh 🇧🇩<br/>
-  with a strong interest in machine learning and artificial intelligence.
-</h3>
-
-<br/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CS+Graduate+from+Bangladesh;ML+%26+AI+Enthusiast;Full-Stack+Developer;Poetry+Writer+%F0%9F%93%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CS+Student+%40+BRAC+University;MERN+Stack+Developer;ML+%26+AI+Enthusiast;Horror+Story+Writer+%F0%9F%95%AF;Poetry+Writer+%F0%9F%93%9D" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -37,10 +33,12 @@
 
 ### 🙋 About Me
 
-- 🌍 I'm from **Bangladesh**
-- 🤖 Currently learning different aspects of **AI & Machine Learning**
+- 🎓 Computer Science student at **BRAC University**, Bangladesh 🇧🇩
+- 🤖 Currently doing research related to **AI & Machine Learning**
+- 🌐 MERN Stack developer — building meaningful, user-centered web applications
 - 💡 Always eager to explore how intelligent systems solve real-world problems
-- ⚡ Fun fact: When I'm not writing code, I'm writing **poetry** — it's my favorite way to turn thoughts into rhythm and emotion
+- 🕯️ Creator of **HollowInk** — atmospheric horror & folklore-driven stories
+- ⚡ Fun fact: When I'm not writing code, I'm writing **poetry** — turning thoughts into rhythm and emotion
 - 📫 Reach me at **officialutshob@gmail.com**
 
 ---
@@ -76,6 +74,10 @@
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
       <br/><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+      <br/><sub><b>C</b></sub>
     </td>
   </tr>
 </table>
@@ -189,15 +191,32 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utshob&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utshob&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=utshobbose&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utshobbose&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utshob&theme=tokyonight&hide_border=true" height="150" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utshobbose&theme=tokyonight&hide_border=true" height="160" alt="Streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utshobbose&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
 </div>
 
 ---
+
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=utshobbose&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+</div>
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=utshobbose&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+<br/>
 
 <div align="center">
   <i>"When I'm not writing code, I'm writing poetry — turning thoughts into rhythm and emotion."</i>
