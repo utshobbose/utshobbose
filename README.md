@@ -24,7 +24,7 @@
 <h1 align="center">Hey there, I'm Utshob! 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CS+Graduate+%40+BRAC+University;MERN+Stack+Developer;ML+%26+AI+Enthusiast;Horror+Story+Writer+%F0%9F%95%AF;Poetry+Writer+%F0%9F%93%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CS+Student+%40+BRAC+University;MERN+Stack+Developer;ML+%26+AI+Enthusiast;Horror+Story+Writer+%F0%9F%95%AF;Poetry+Writer+%F0%9F%93%9D" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -45,146 +45,50 @@
 
 ### 🛠️ Tech Stack
 
-<br/>
-
 **🗣️ Languages**
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br/><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      <br/><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-      <br/><sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-      <br/><sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-      <br/><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-      <br/><sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
-      <br/><sub><b>C</b></sub>
-    </td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-<br/>
+**🖥️ Frontend & Mobile**
 
-**🖥️ Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-      <br/><sub><b>React</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-      <br/><sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40" height="40" alt="Svelte" />
-      <br/><sub><b>Svelte</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" alt="Tailwind CSS" />
-      <br/><sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
-      <br/><sub><b>Figma</b></sub>
-    </td>
-  </tr>
-</table>
+**⚙️ Backend**
 
-<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-**⚙️ Backend & Databases**
+**🗄️ Databases & BaaS**
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-      <br/><sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" />
-      <br/><sub><b>Express</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
-      <br/><sub><b>Django</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-      <br/><sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-      <br/><sub><b>MySQL</b></sub>
-    </td>
-  </tr>
-</table>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<br/>
+**🤖 AI / ML**
 
-**🤖 AI / Machine Learning**
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
-      <br/><sub><b>PyTorch</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
-      <br/><sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Anaconda" />
-      <br/><sub><b>Anaconda</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 **🚀 DevOps & Tools**
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40" alt="Docker" />
-      <br/><sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-      <br/><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-      <br/><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-      <br/><sub><b>Linux</b></sub>
-    </td>
-  </tr>
-</table>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -205,7 +109,7 @@
 
 ---
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=utshobbose&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
@@ -213,4 +117,4 @@
 
 <div align="center">
   <i>"When I'm not writing code, I'm writing poetry — turning thoughts into rhythm and emotion."</i>
-</div> -->
+</div>
