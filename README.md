@@ -205,7 +205,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=utshobbose&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
@@ -213,4 +213,4 @@
 
 <div align="center">
   <i>"When I'm not writing code, I'm writing poetry — turning thoughts into rhythm and emotion."</i>
-</div>
+</div> -->
