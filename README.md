@@ -205,13 +205,6 @@
 
 ---
 
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=utshobbose&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</div>
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=utshobbose&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
