@@ -92,20 +92,5 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utshobbose&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utshobbose&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utshobbose&theme=tokyonight&hide_border=true" height="160" alt="Streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utshobbose&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
-</div>
-
----
 
