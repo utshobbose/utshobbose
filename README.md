@@ -33,7 +33,7 @@
 
 ### 🙋 About Me
 
-- 🎓 Computer Science student at **BRAC University**, Bangladesh 🇧🇩
+- 🎓 Computer Science graduate at **BRAC University**, Bangladesh 🇧🇩
 - 🤖 Currently doing research related to **AI & Machine Learning**
 - 🌐 MERN Stack developer — building meaningful, user-centered web applications
 - 💡 Always eager to explore how intelligent systems solve real-world problems
