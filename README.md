@@ -33,13 +33,13 @@
 
 ### 🙋 About Me
 
-- 🎓 Computer Science graduate at **BRAC University**, Bangladesh 🇧🇩
-- 🤖 Currently doing research related to **AI & Machine Learning**
-- 🌐 MERN Stack developer — building meaningful, user-centered web applications
-- 💡 Always eager to explore how intelligent systems solve real-world problems
-- 🕯️ Creator of **HollowInk** — atmospheric horror & folklore-driven stories
-- ⚡ Fun fact: When I'm not writing code, I'm writing **poetry** — turning thoughts into rhythm and emotion
-- 📫 Reach me at **officialutshob@gmail.com**
+- Computer Science graduate at **BRAC University**, Bangladesh 🇧🇩
+- Tech Co-founder of Science Simulab
+- MERN Stack developer — building meaningful, user-centered web applications
+- Always eager to explore how intelligent systems solve real-world problems
+- Creator of **HollowInk** — atmospheric horror & folklore-driven stories
+- Fun fact: When I'm not writing code, I'm writing **poetry** — turning thoughts into rhythm and emotion
+- Reach me at **officialutshob@gmail.com**
 
 ---
 
